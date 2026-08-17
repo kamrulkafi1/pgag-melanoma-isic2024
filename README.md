@@ -64,17 +64,6 @@ https://challenge.isic-archive.com/data/#2024.
 4. To skip retraining and reproduce evaluation/figures only, load the
    Phase 2 checkpoint from Zenodo and start from the metrics cell
 
-## Citation
-
-If you use this code, please cite:
-
-```
-[INSERT FULL CITATION AFTER PROCEEDINGS PUBLICATION]
-```
-
-## License
-
-[INSERT LICENSE — e.g. MIT, or match your institution's policy]
 
 ## Contact
 
